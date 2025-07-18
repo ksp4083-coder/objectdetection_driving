@@ -1,2 +1,4 @@
-# Self-driving-artificial-intelligence-algorithm-development-challenge.
-[Computer Vision] YOLO를 활용한 딥러닝 기반 객체 검출 모델 학습과 도로 주행 영상 처리
+# 객체 검출 프로젝트: 도로 주행 객체 탐지 모델 학습
+- 자율주행 인공지능 알고리즘 개발 챌린지에 개인으로 참가해 진행한 프로젝트입니다.
+- Object Detection의 핵심 원리를 이해한 후, YOLO 모델 학습과 직접 촬영한 도로 주행 영상을 분석합니다.
+- 가장 높은 모델 성능으로 최우수상을 수상했습니다.
