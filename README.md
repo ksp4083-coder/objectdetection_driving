@@ -1,6 +1,5 @@
 # 객체 검출 프로젝트: 도로 주행
 - [2024년 자율주행 인공지능 알고리즘 개발 챌린지](https://challenge.gcontest.co.kr/template/m/frame/info1/16335)에 개인으로 참가해 진행한 프로젝트입니다.
-- [대회 규칙](https://challenge.gcontest.co.kr/template/m/frame/info2/16335)
 - Object Detection의 핵심 원리를 이해한 후, YOLO 모델 학습과 직접 촬영한 도로 주행 영상에서 객체 검출을 수행합니다.
 - 가장 높은 모델 성능으로 [최우수상](https://graceful-cello-0d4.notion.site/2024-2347d8d98aa880b2ba62fd45ca0eda7c?source=copy_link)을 수상했습니다.
 
@@ -9,6 +8,7 @@
 ## 배경
 - 수상 실적이 필요해 참여
 - 직접 모델을 개발하는 것에 흥미를 느껴 참가하게 됨
+- [대회 규칙](https://challenge.gcontest.co.kr/template/m/frame/info2/16335)
 
 <Br>
 
